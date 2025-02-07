@@ -10,7 +10,13 @@ bring your own tasks :) if you want to input tasks with a json file rather than 
 
 for each task, you can set the name, details, and different sizes of the task (do I want to do 1 page of reading, or 30 minutes?)- task size can be chosen for you, but you can always just pick the task size you're feeling up to :)
 
-you can press the speech bubble with the randomly selected task to edit that specific task, or edit, add and delete tasks by opening the task list.
+![sample-2](https://github.com/user-attachments/assets/bcce07f8-0f4d-436c-ae16-66f8d49dcbbc)
+
+you can press the speech bubble with the randomly selected task to edit that specific task. Or, you can edit, add and delete tasks by opening the task list. The "add task" button is at the bottom of the task list.
+
+![sample-1](https://github.com/user-attachments/assets/02159c59-5699-4bca-b457-aa839f335060)
+
+the "i did it!" button just throws some confetti. that's all it does. use it!
 
 tasks are saved via localstorage, so if you're using this online, beware of messing with cookies and such!
 
