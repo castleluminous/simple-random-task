@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "http://castleluminous.github.io/simple-random-task",
+  "homepage": "https://castleluminous.github.io/simple-random-task/",
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
