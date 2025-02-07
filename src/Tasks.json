@@ -1,0 +1,12 @@
+[
+    {
+        "name": "Sample task name",
+        "details": "here are some details",
+        "size": ["1 block of work", "30 min"]
+    },
+    {
+        "name": "Add tasks here!",
+        "details": "",
+        "size": ["1 task", "10 tasks", "30 min"]
+    }
+]

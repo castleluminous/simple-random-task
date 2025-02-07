@@ -1,0 +1,19 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+
+  /* too dumb to know how to use the builtin themes */
+  --bubble-custom-bg: #ddceb4;
+  --bubble-custom-text: #30210b;
+  --bubble-custom-border: #30210b;
+  --bubble-custom-shadow: #30210b;
+  --button-custom-bg: #ddceb4; 
+  --button-custom-text: #30210b; 
+  --button-custom-shadow: #30210b; 
+  --button-custom-border: #30210b; 
+  --card-custom-bg: #ddceb4;
+  --card-custom-text: #30210b;
+  --card-custom-border: #30210b;
+  --card-custom-shadow: #30210b;
+}
