@@ -25,4 +25,7 @@ if you use this site online, i may be convinced to add the following:
 - greeting and flavor text customizable (and saved to local storage)
 
 ## extra
-this was made using retro.ui: https://www.retroui.io
+this was made using 
+- retro.ui: https://www.retroui.io
+- react-confetti-boom: https://github.com/almond-bongbong/react-confetti-boom
+- vite: https://vite.dev/
